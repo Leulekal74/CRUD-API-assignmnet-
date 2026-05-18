@@ -1,4 +1,3 @@
-
 ## 📊 Application Screenshots
 
 | Main Dashboard View | Form Interaction View |
